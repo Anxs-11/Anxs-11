@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Anxs-11 👦🏻
+- Hello World
+
+- I’m @Anxs-11 👦🏻
 
 - Computer Science Student in IIT JAMMU 👦🏻‍💻
 
