@@ -1,6 +1,6 @@
 - Hello World
 
-- I’m @Anxs-11 👦🏻
+- I’m Mohd Anas 👦🏻
 
 - Computer Science Student in IIT JAMMU 👦🏻‍💻
 
