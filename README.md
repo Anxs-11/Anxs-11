@@ -9,7 +9,7 @@
 - 🌱 I’m currently doing : 
                                 1. <...> web-dev (html ,css ,javascript,react) </...>
                                 2. exploring python 🐍
-                                3. basics of c++ ; 
+                                3. Data Structures and Algorithms
                                 
 - 📫 How to reach me on insta ; @Anxs__11.
 
