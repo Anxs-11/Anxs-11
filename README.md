@@ -9,11 +9,10 @@ and cut system latency by 95%.
 **Autonomous Engineering Agent (AEA)** — AI agent that converts Jira tickets into
 merged PRs with zero human involvement.
 Stack: FastAPI · LangGraph · RAG · Tree-sitter · GitHub API · Jira API · Slack
-> 🚧 In Progress — Week 1
 
 ## 🛠 Tech Stack
 Python · FastAPI · LangGraph · LangChain · RAG · MCP
-Redis · PostgreSQL · GitHub API · Jira API · Slack
+Redis · SQL · GitHub API · Jira API · Slack
 
 ## 🔗 Links
 🌐 Portfolio → https://mohdanas-liard.vercel.app/
